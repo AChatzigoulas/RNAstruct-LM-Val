@@ -1,5 +1,5 @@
 # Predicting Biomolecular Structure from Language Model attention
-### Code from "Predicting RNA structure with Natural Language Processing: are we there yet?"
+### Code from "Predicting RNA structure with Large Language Models: where do we stand?”
 ###### It is generally shown, and validated in this study, that attention mechanisms in protein Language Models (pLMs) encode evolutionary structural information, facilitating accurate prediction of protein tertiary structure contact maps. Here, we explore whether this concept extends to nucleic acid Language Models (naLMs) for predicting RNA secondary and tertiary structure contact maps. However, our investigation reveals that current language models do not effectively capture structural information. The presented code contains all the trials we performed.
 
 
